@@ -25,4 +25,4 @@ spec:
         - name: ParameterSSENCYPT
           value: "chacha20-ietf-poly1305"
         - name: AUUID
-          value: "62391c87-553c-4260-af28-cd0827554c54"
+          value: "848f842d-6ab7-4f42-877e-f4322a421e50"
